@@ -1,5 +1,5 @@
 {
-  "upstreamUrl": "",
+  "upstreamUrl": "http://vercel.plymrk.fun:2052",
   "listenPort": 443,
   "logLevel": "info",
   "accessLog": "on"
